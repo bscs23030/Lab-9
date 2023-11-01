@@ -1,0 +1,184 @@
+.nav1{
+    height: 50px;
+    background-color:greenyellow;
+    text-align: center;
+    font-size: large;
+margin-bottom: 0;
+position: sticky;
+}
+
+.nav2{
+    background-color:#333 ;
+    text-align: center;
+    height: 75px;
+padding-top: 3px;
+margin-top: 3px;
+position: sticky;
+top: 0px;
+}
+
+.nav3{
+    background-color:#333 ;
+    text-align: center;
+    height: 75px;
+padding-top: 3px;
+margin-top: 3px;
+position: sticky;
+top: 0px;
+}
+
+#real{
+    position: sticky;
+ top: 0;
+}
+
+
+ 
+.disk{
+    background-image: url(pnyimages/background.avif);
+    width: 1350px;
+    height: 500px;
+} 
+
+footer{
+text-align: center;
+background-color: #333;
+display: block;
+height: 150px;
+
+}
+.footer1{
+    background-color: #333;
+}
+
+
+h3{
+    color: tomato;
+}
+
+
+
+
+
+button{
+
+background-color: green;
+
+margin-top: 10px;
+
+
+}
+.lt1{
+    /* padding-left: 400px; */
+    width: 1340px;
+    background-color: chartreuse;
+}
+
+
+
+h4{
+    color:grey;
+}
+
+
+
+
+.usman{
+
+background-color: skyblue;
+
+}
+
+
+
+div{
+    border: 1px solid red;
+    width: 268px;
+    
+    background-color: pink;
+    
+    /* margin: 50px 0 5px 10px; */
+    padding: 10px 0 5px 10px;
+    
+    float: left;
+    
+    }
+    
+    p{
+    color: navy;
+    
+    
+    }
+    
+    .product1{
+        color: yellow;
+    background-color: purple;
+    border: 4px solid red;
+    
+    }
+    .product2{
+        color: green;
+    background-color: aqua;
+    border: 4px solid blue;
+    
+    }
+  
+    .price{
+    color: black;
+    
+    }
+    
+    .discount{
+    
+        color: red;
+    }
+    
+    
+    
+    img{
+        height: 200px;
+    width: 150px;
+    
+    }
+    .sol{
+
+        width: 800px;
+        height: 900px;
+        background-color: #99ff66;
+        border: 3px solid red;
+        margin-left: 250px;
+        border-radius: 20px;
+        text-align: center;
+        color: rebeccapurple;
+        
+        }
+            
+        .product3{
+            color: brown;
+        background-color: grey;
+        border: 4px solid chocolate;
+        
+        }
+          
+    
+    
+    
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
